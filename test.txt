@@ -1,1 +1,3 @@
-
+Wprowadziliśmy zmianę w naszym odgałęzieniu projektu, ale zmiana ta
+nie trafiła do repozytorium źródłowego. To logiczne: przecież każdy może
+wykonać kopię publicznie dostępnego projektu, a jego właściciel raczej nie
