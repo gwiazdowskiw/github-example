@@ -1,0 +1,9 @@
+Czasami warto jednak pozwolić innym na zaproponowanie zmian w projekcie.
+Takie rozwiązanie pozwala większej liczbie osób wygodnie pracować nad
+projektem open source albo małemu zespołowi — nad projektem wewnętrznym
+o mniejszej skali. Możliwość proponowania zmian zapewniają
+zgłoszenia.
+Dzięki zgłoszeniom możesz zasugerować włączenie do projektu źródłowego
+zmian wprowadzonych we własnym odgałęzieniu repozytorium. Za chwilę
+przeczytasz, na czym to polega. Zauważ, że na rysunku 3.7 w prawej części
+strony głównej projektu znajduje się zakładka Pull Requests (zgłoszenia).
